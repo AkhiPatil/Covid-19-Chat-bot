@@ -1,6 +1,5 @@
 # Covid-19-Chat-bot
-Covid-19 Chat bot Using QnA ,App Service,Storage Account
-Click Here link :- https://akhipatil.github.io/Covid-19-Chat-bot/
+https://akhipatil.github.io/Covid-19-Chat-bot/
 
 # Working Video
 ![bot](https://user-images.githubusercontent.com/97556151/154892991-7beec913-6072-4d10-8656-4380fe904855.gif)
