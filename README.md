@@ -1,9 +1,10 @@
 # Covid-19-Chat-bot
+https://futurereadytalent.in/
 Covid-19 Chat bot Using QnA ,App Service,Storage Account
 Click Here link :- https://akhipatil.github.io/Covid-19-Chat-bot/
 
 # Certificate By Microsoft future ready talent 
-https://futurereadytalent.in/
+
 ![Screenshot (4)](https://user-images.githubusercontent.com/97556151/163332382-c907e068-73cb-41ae-81e9-c8e255c52b0e.png)
 
 
