@@ -4,7 +4,7 @@ Click Here link :- https://akhipatil.github.io/Covid-19-Chat-bot/
 
 # Certificate By Microsoft future ready talent 
 https://futurereadytalent.in/
-[Akhilesh Navneet Patil_Certificate.pdf](https://github.com/AkhiPatil/Covid-19-Chat-bot/files/8486882/Akhilesh.Navneet.Patil_Certificate.pdf)
+![Screenshot (4)](https://user-images.githubusercontent.com/97556151/163332382-c907e068-73cb-41ae-81e9-c8e255c52b0e.png)
 
 
 # Working Video
